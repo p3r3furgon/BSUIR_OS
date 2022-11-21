@@ -1,0 +1,10 @@
+1. 	(9, 17.3571) Operation start time: 1.126, operation end time: 1.127
+2. 	(21, 220.5) Operation start time: 1.127, operation end time: 1.127
+3. 	(82, 13127.8) Operation start time: 1.128, operation end time: 1.128
+4. 	(92, 18540.2) Operation start time: 1.128, operation end time: 1.129
+5. 	(11, 31.6905) Operation start time: 1.129, operation end time: 1.129
+6. 	(61, 5404.31) Operation start time: 1.13, operation end time: 1.13
+7. 	(5, 2.97619) Operation start time: 1.13, operation end time: 1.13
+8. 	(49, 2801.17) Operation start time: 1.131, operation end time: 1.131
+9. 	(74, 9648.19) Operation start time: 1.131, operation end time: 1.131
+10. 	(28, 522.667) Operation start time: 1.131, operation end time: 1.132

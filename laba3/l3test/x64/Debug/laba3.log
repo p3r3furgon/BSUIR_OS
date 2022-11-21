@@ -1,0 +1,4 @@
+﻿  laba3.cpp
+D:\121702\Zayats\laba3\l3test\laba3.cpp(23,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\121702\Zayats\laba3\l3test\laba3.cpp(29,23): warning C4018: '<': signed/unsigned mismatch
+  laba3.vcxproj -> D:\121702\Zayats\laba3\l3test\x64\Debug\laba3.exe
